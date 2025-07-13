@@ -1,9 +1,9 @@
-# Lab A11: Remote State Storage with Azure Blob Storage
+# Lab A10: Remote State Storage with Azure Blob Storage
 
 ## Student Info
 
-- **Name**: Saikarthick
-- **College Username**: saikarthick / kali0055@algonquinlive.com
+- **Name**: Sai Karthick Kalidoss
+- **College Username**: kali0055@algonquinlive.com
 - **Course**: CST8918 - Infrastructure as Code
 - **Lab**: A11 - Remote State Storage with Azure Blob Storage
 - **Date**: July 13, 2025
